@@ -1,3 +1,16 @@
+"""
+    CCOMUPRA - 2023
+    University of Puerto Rico Arecibo
+    CCOM4440 - Dr. B. Hernández
+
+    Brief:
+    This is a platformer game with a fun dynamic: 
+    avoid the big moving square. You can move with the arrow keys
+    and the main objective is to eat all the red squares on the map.
+
+"""
+
+
 import pygame, sys, random
 import pygame_gui
 
