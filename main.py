@@ -1,5 +1,5 @@
 """
-    CCOMUPRA - ©2023
+    CCOMUPRA - 2023
     University of Puerto Rico Arecibo
     CCOM4440 - Dr. B. Hernández
 
