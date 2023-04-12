@@ -7,7 +7,7 @@ from clases.player import Player
 from clases.level import Level
 
 pygame.init()
-
+# OTRO COMENTARIO BONITO
 # Manejar el pacing
 mainClock = pygame.time.Clock()
 
